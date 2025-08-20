@@ -708,12 +708,12 @@
 		}
 		"ControlGroup1"
 		{
-			"Key"		"F3"
+			"Key"		"MOUSE5"
 			"Mode"		"-1"
 		}
 		"ControlGroup2"
 		{
-			"Key"		"F4"
+			"Key"		"MOUSE4"
 			"Mode"		"-1"
 		}
 		"InspectHeroInWorld"
@@ -723,7 +723,7 @@
 		}
 		"ControlGroup3"
 		{
-			"Key"		"5"
+			"Key"		"MOUSE3"
 			"Mode"		"-1"
 		}
 		"ControlGroup4"
@@ -741,7 +741,7 @@
 		}
 		"FilterNonHero"
 		{
-			"Key"		"MOUSE4"
+			"Key"		"F4"
 			"Mode"		"-1"
 		}
 		"FilterEnemy"
@@ -754,7 +754,7 @@
 		}
 		"FilterHero"
 		{
-			"Key"		"MOUSE5"
+			"Key"		"F3"
 			"Mode"		"-1"
 		}
 		"OverlayMapToggle"
@@ -763,7 +763,6 @@
 		}
 		"HeroMoveDirection"
 		{
-			"Key"		"MOUSE3"
 			"Mode"		"-1"
 		}
 		"PurchaseQuickbuy"
@@ -778,6 +777,31 @@
 		"ScoreboardToggle"
 		{
 			"Key"		"`"
+			"Mode"		"-1"
+		}
+		"NeutralItemSelect1"
+		{
+			"Key"		"1"
+			"Mode"		"-1"
+		}
+		"NeutralItemSelect2"
+		{
+			"Key"		"2"
+			"Mode"		"-1"
+		}
+		"NeutralItemSelect3"
+		{
+			"Key"		"3"
+			"Mode"		"-1"
+		}
+		"NeutralItemSelect4"
+		{
+			"Key"		"4"
+			"Mode"		"-1"
+		}
+		"ControlGroup5"
+		{
+			"Key"		"5"
 			"Mode"		"-1"
 		}
 	}
