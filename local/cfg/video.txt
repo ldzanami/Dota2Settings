@@ -16,7 +16,7 @@
 	"setting.fullscreen"		"0"
 	"setting.coop_fullscreen"		"0"
 	"setting.nowindowborder"		"1"
-	"setting.mat_vsync"		"0"
+	"setting.mat_vsync"		"1"
 	"setting.fullscreen_min_on_focus_loss"		"0"
 	"setting.high_dpi"		"0"
 	"setting.cl_particle_fallback_base"		"0"
