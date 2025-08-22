@@ -81,7 +81,9 @@
 		}
 		"ControlGroup6"
 		{
-			"Key"		"6"
+			"Key"		"MOUSE3"
+			"Modifier"		"ALT"
+			"Mode"		"0"
 		}
 		"ControlGroup7"
 		{
@@ -728,6 +730,8 @@
 		}
 		"ControlGroup4"
 		{
+			"Key"		"MOUSE5"
+			"Modifier"		"ALT"
 			"Mode"		"-1"
 		}
 		"HeroMove"
@@ -801,7 +805,8 @@
 		}
 		"ControlGroup5"
 		{
-			"Key"		"5"
+			"Key"		"MOUSE4"
+			"Modifier"		"ALT"
 			"Mode"		"-1"
 		}
 	}

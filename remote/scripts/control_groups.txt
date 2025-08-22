@@ -278,15 +278,21 @@
 			"0"
 			{
 				"unitname"		"npc_dota_hero_naga_siren"
-				"illusion"		"1"
-				"illusionlabel"		"manta_0"
+				"illusion"		"0"
 				"unitindex"		"0"
 			}
 			"1"
 			{
 				"unitname"		"npc_dota_hero_naga_siren"
 				"illusion"		"1"
-				"illusionlabel"		"manta_1"
+				"illusionlabel"		"illusion_3"
+				"unitindex"		"0"
+			}
+			"2"
+			{
+				"unitname"		"npc_dota_hero_naga_siren"
+				"illusion"		"1"
+				"illusionlabel"		"illusion_0"
 				"unitindex"		"0"
 			}
 		}
@@ -303,13 +309,6 @@
 			{
 				"unitname"		"npc_dota_hero_naga_siren"
 				"illusion"		"1"
-				"illusionlabel"		"illusion_0"
-				"unitindex"		"0"
-			}
-			"2"
-			{
-				"unitname"		"npc_dota_hero_naga_siren"
-				"illusion"		"1"
 				"illusionlabel"		"illusion_1"
 				"unitindex"		"0"
 			}
@@ -320,14 +319,44 @@
 			{
 				"unitname"		"npc_dota_hero_naga_siren"
 				"illusion"		"1"
-				"illusionlabel"		"manta_1"
+				"illusionlabel"		"manta_0"
 				"unitindex"		"0"
 			}
 			"1"
 			{
 				"unitname"		"npc_dota_hero_naga_siren"
 				"illusion"		"1"
+				"illusionlabel"		"manta_1"
+				"unitindex"		"0"
+			}
+		}
+		"4"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_naga_siren"
+				"illusion"		"1"
 				"illusionlabel"		"manta_0"
+				"unitindex"		"0"
+			}
+		}
+		"3"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_naga_siren"
+				"illusion"		"1"
+				"illusionlabel"		"illusion_3"
+				"unitindex"		"0"
+			}
+		}
+		"5"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_naga_siren"
+				"illusion"		"1"
+				"illusionlabel"		"manta_1"
 				"unitindex"		"0"
 			}
 		}

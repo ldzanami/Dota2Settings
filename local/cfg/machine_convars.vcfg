@@ -295,7 +295,7 @@
 		"snd_steamaudio_enable_perspective_correction"		"true"
 		"snd_steamaudio_source_pathing_debug"		"false"
 		"snd_toolvolume"		"1.000000"
-		"snd_voipvolume"		"0.777620"
+		"snd_voipvolume"		"0.501131"
 		"sound_device_override"		"Source2SDLDefaultDevice"
 		"speaker_config"		"-1"
 		"spec_centerchasecam"		"false"
