@@ -85,12 +85,38 @@
 			"0"
 			{
 				"unitname"		"npc_dota_hero_terrorblade"
+				"illusion"		"0"
+				"unitindex"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_hero_terrorblade"
 				"illusion"		"1"
 				"illusionlabel"		"conjure_image_0"
 				"unitindex"		"0"
 			}
 		}
 		"4"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_terrorblade"
+				"illusion"		"1"
+				"illusionlabel"		"conjure_image_0"
+				"unitindex"		"0"
+			}
+		}
+		"2"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_terrorblade"
+				"illusion"		"1"
+				"illusionlabel"		"conjure_image_0"
+				"unitindex"		"0"
+			}
+		}
+		"1"
 		{
 			"0"
 			{

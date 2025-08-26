@@ -851,15 +851,15 @@
 		}
 		"item_magic_stick"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_magic_wand"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_ghost"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_clarity"
 		{
@@ -883,7 +883,7 @@
 		}
 		"item_bottle"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_tango"
 		{
@@ -895,15 +895,15 @@
 		}
 		"item_phase_boots"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_power_treads"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_hand_of_midas"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_aetherial_halo"
 		{
@@ -911,19 +911,19 @@
 		}
 		"item_mekansm"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_holy_locket"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_pipe"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_urn_of_shadows"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_sheepstick"
 		{
@@ -939,15 +939,15 @@
 		}
 		"item_cyclone"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_wind_waker"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_force_staff"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_hurricane_pike"
 		{
@@ -975,31 +975,31 @@
 		}
 		"item_refresher"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_black_king_bar"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_shivas_guard"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_bloodstone"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_sphere"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_lotus_orb"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_meteor_hammer"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_nullifier"
 		{
@@ -1007,15 +1007,15 @@
 		}
 		"item_spirit_vessel"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_crimson_guard"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_blade_mail"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_bfury"
 		{
@@ -1023,19 +1023,19 @@
 		}
 		"item_manta"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_invis_sword"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_silver_edge"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_satanic"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_mjollnir"
 		{
@@ -1043,55 +1043,55 @@
 		}
 		"item_helm_of_the_dominator"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_helm_of_the_overlord"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_gungir"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_mask_of_madness"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_diffusal_blade"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_disperser"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_ethereal_blade"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_soul_ring"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_arcane_boots"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_ancient_janggo"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_boots_of_bearing"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_solar_crest"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_pavise"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_smoke_of_deceit"
 		{
@@ -1099,15 +1099,15 @@
 		}
 		"item_veil_of_discord"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_guardian_greaves"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_rod_of_atos"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_iron_talon"
 		{
@@ -1119,15 +1119,15 @@
 		}
 		"item_heavens_halberd"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_shadow_amulet"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_glimmer_cape"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_force_boots"
 		{
@@ -1171,7 +1171,7 @@
 		}
 		"item_demonicon"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_pirate_hat"
 		{
@@ -1191,7 +1191,7 @@
 		}
 		"item_psychic_headband"
 		{
-			"Mode"		"0"
+			"Mode"		"1"
 		}
 		"item_book_of_shadows"
 		{
@@ -2005,6 +2005,110 @@
 			"TalentUpgradeAttribute"
 			{
 				"Key"		"3"
+				"Mode"		"-1"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"d"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"f"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+		}
+		"npc_dota_hero_terrorblade"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Mode"		"1"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Mode"		"1"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"D"
+				"Mode"		"1"
+			}
+			"AbilitySecondary2"
+			{
+				"Key"		"F"
+				"Mode"		"1"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Mode"		"1"
+			}
+			"TalentUpgradeStatLeft"
+			{
+				"Key"		"1"
+				"Mode"		"-1"
+			}
+			"TalentUpgradeStatRight"
+			{
+				"Key"		"2"
+				"Mode"		"-1"
+			}
+			"TalentUpgradeAttribute"
+			{
+				"Key"		"3"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect1"
+			{
+				"Key"		"1"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect2"
+			{
+				"Key"		"2"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect3"
+			{
+				"Key"		"3"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect4"
+			{
+				"Key"		"4"
 				"Mode"		"-1"
 			}
 			"AbilityPrimary1AutoCast"

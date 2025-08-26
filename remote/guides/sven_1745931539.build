@@ -2,13 +2,13 @@
 {
 	"Hero"		"sven"
 	"Title"		"100% EZ GAME"
-	"GameplayVersion"		"7.39"
+	"GameplayVersion"		"7.39d"
 	"Overview"		""
-	"GuideRevision"		"4"
+	"GuideRevision"		"5"
 	"AssociatedWorkshopItemID"		"0x0000000000000000"
 	"OriginalCreatorID"		"0x00000000382F8487"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000068348A24"
+	"TimeUpdated"		"0x0000000068A9D199"
 	"TimePublished"		"0x0000000000000000"
 	"ItemBuild"
 	{
@@ -48,6 +48,7 @@
 				"item"		"item_assault"
 				"item"		"item_swift_blink"
 				"item"		"item_aghanims_shard"
+				"item"		"item_refresher"
 				"item"		"item_rapier"
 				"item"		"item_sphere"
 			}
