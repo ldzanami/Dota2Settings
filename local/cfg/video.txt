@@ -22,7 +22,7 @@
 	"setting.cl_particle_fallback_base"		"0"
 	"setting.cl_particle_fallback_multiplier"		"0.000000"
 	"setting.dota_cheap_water"		"false"
-	"setting.r_deferred_height_fog"		"false"
+	"setting.r_deferred_height_fog"		"true"
 	"setting.r_deferred_simple_light"		"1"
 	"setting.r_ssao"		"true"
 	"setting.cl_globallight_shadow_mode"		"3"

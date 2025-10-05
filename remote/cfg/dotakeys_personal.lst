@@ -23,14 +23,6 @@
 		{
 			"Key"		"RIGHTARROW"
 		}
-		"CameraZoomIn"
-		{
-			"Key"		"MWHEELUP"
-		}
-		"CameraZoomOut"
-		{
-			"Key"		"MWHEELDOWN"
-		}
 		"ActivateGlyph"
 		{
 			"Key"		"J"
@@ -87,7 +79,7 @@
 		}
 		"ControlGroup7"
 		{
-			"Key"		"7"
+			"Mode"		"0"
 		}
 		"ControlGroup8"
 		{
@@ -720,18 +712,16 @@
 		}
 		"InspectHeroInWorld"
 		{
-			"Key"		"H"
 			"Mode"		"-1"
 		}
 		"ControlGroup3"
 		{
-			"Key"		"MOUSE3"
+			"Key"		"MWHEELUP"
 			"Mode"		"-1"
 		}
 		"ControlGroup4"
 		{
-			"Key"		"MOUSE5"
-			"Modifier"		"ALT"
+			"Key"		"H"
 			"Mode"		"-1"
 		}
 		"HeroMove"
@@ -805,8 +795,12 @@
 		}
 		"ControlGroup5"
 		{
-			"Key"		"MOUSE4"
-			"Modifier"		"ALT"
+			"Key"		"MWHEELDOWN"
+			"Mode"		"-1"
+		}
+		"CameraGrip"
+		{
+			"Key"		"MOUSE3"
 			"Mode"		"-1"
 		}
 	}
@@ -1377,7 +1371,7 @@
 			"AbilityPrimary1"
 			{
 				"Key"		"Q"
-				"Mode"		"1"
+				"Mode"		"0"
 			}
 			"AbilityPrimary2"
 			{
@@ -2055,6 +2049,214 @@
 			{
 				"Key"		"W"
 				"Mode"		"1"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Mode"		"1"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"D"
+				"Mode"		"1"
+			}
+			"AbilitySecondary2"
+			{
+				"Key"		"F"
+				"Mode"		"1"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Mode"		"1"
+			}
+			"TalentUpgradeStatLeft"
+			{
+				"Key"		"1"
+				"Mode"		"-1"
+			}
+			"TalentUpgradeStatRight"
+			{
+				"Key"		"2"
+				"Mode"		"-1"
+			}
+			"TalentUpgradeAttribute"
+			{
+				"Key"		"3"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect1"
+			{
+				"Key"		"1"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect2"
+			{
+				"Key"		"2"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect3"
+			{
+				"Key"		"3"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect4"
+			{
+				"Key"		"4"
+				"Mode"		"-1"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"d"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"f"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+		}
+		"npc_dota_hero_queenofpain"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Mode"		"2"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Mode"		"1"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Mode"		"1"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"D"
+				"Mode"		"1"
+			}
+			"AbilitySecondary2"
+			{
+				"Key"		"F"
+				"Mode"		"1"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Mode"		"1"
+			}
+			"TalentUpgradeStatLeft"
+			{
+				"Key"		"1"
+				"Mode"		"-1"
+			}
+			"TalentUpgradeStatRight"
+			{
+				"Key"		"2"
+				"Mode"		"-1"
+			}
+			"TalentUpgradeAttribute"
+			{
+				"Key"		"3"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect1"
+			{
+				"Key"		"1"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect2"
+			{
+				"Key"		"2"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect3"
+			{
+				"Key"		"3"
+				"Mode"		"-1"
+			}
+			"NeutralItemSelect4"
+			{
+				"Key"		"4"
+				"Mode"		"-1"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"d"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"f"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+		}
+		"npc_dota_hero_broodmother"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Mode"		"1"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Mode"		"0"
 			}
 			"AbilityPrimary3"
 			{
